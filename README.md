@@ -2,7 +2,7 @@
 Algorithms in Java
 
 ## References
-* [Algorithmic Problems in Java - Udemy](https://www.udemy.com/algorithmic-problems-in-java/)
+* Algorithmic Problems in Java - first set
   * Recursion
   * Selection
   * Backtracking
