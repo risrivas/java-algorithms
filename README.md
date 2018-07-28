@@ -5,7 +5,7 @@
   * Selection
   * Backtracking
   * Dynamic Programming
-* Competitive Programming
+* Online Judges
   * Leetcode
   * Hacker rank
   * SPOJ
