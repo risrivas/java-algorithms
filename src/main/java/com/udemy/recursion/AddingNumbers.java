@@ -1,4 +1,4 @@
-package com.algorithms.recursion;
+package com.udemy.recursion;
 
 public class AddingNumbers {
 

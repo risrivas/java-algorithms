@@ -1,9 +1,13 @@
-# java-algorithms
-Algorithms in Java
+# Algorithms in Java
 
-## References
-* Algorithmic Problems in Java - first set
+* Algorithmic Problems in Java - Udemy
   * Recursion
   * Selection
   * Backtracking
   * Dynamic Programming
+* Competitive Programming
+  * Leetcode
+  * Hacker rank
+  * SPOJ
+  * Code monk
+  * Code forces
