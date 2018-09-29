@@ -19,8 +19,8 @@ public class MorseCode {
             int idx = c - 'a';
             builder.append(morseCodes[idx]);
          }
-         resultSet.add(builder.toString());
          // System.out.println(builder);
+         resultSet.add(builder.toString());
       }
       return resultSet.size();
    }
